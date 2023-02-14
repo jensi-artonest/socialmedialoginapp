@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291977414535",
+    "project_id": "social-media-login-c1b04",
+    "storage_bucket": "social-media-login-c1b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291977414535:android:1d0e7d3896fa51f3fc7522",
+        "android_client_info": {
+          "package_name": "com.example.socialmedialoginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291977414535-es9s3khl5tgfqd1evk1h2n4mjeijsp31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialmedialoginapp",
+            "certificate_hash": "b056b9817b56fe4a925ef1b26ae9dd9245756a01"
+          }
+        },
+        {
+          "client_id": "291977414535-lnn45ra14faku0e97piai2o8n6h8q5jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8E7RV6qXw-TZxtBoLaZSVgddeP6eJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291977414535-6jnv2jmhgmam1783gs02gv30s1k2ocle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
